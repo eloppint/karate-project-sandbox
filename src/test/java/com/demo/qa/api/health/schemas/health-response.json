@@ -1,0 +1,11 @@
+{
+  "status": "#string",
+  "timestamp": "#string",
+  "version": "#string",
+  "service": "#string",
+  "environment": "#string",
+  "checks": {
+    "dataStore": "#string",
+    "apiGateway": "#string"
+  }
+}

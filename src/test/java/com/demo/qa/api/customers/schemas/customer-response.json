@@ -1,0 +1,9 @@
+{
+  "customerId": "#uuid",
+  "firstName": "#string",
+  "lastName": "#string",
+  "documentType": "#string",
+  "documentNumber": "#string",
+  "status": "#string",
+  "accounts": "#array"
+}
